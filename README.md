@@ -1,5 +1,4 @@
 # UTS_Mobile_Septiandwiarya
-UTS Mobile Septian Dwi Arya
 import 'package:flutter/material.dart';
 
 void main() {
